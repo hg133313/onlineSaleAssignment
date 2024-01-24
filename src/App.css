@@ -1,0 +1,45 @@
+.App{
+  padding: 2rem;
+}
+
+.form_field_container{
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+.form_field_container label{
+font-size: 1.5rem;
+line-height: 2.5rem;
+font-weight: 600;
+}
+.form_margin{
+  margin-top: 0.5rem;
+}
+.field_container{
+  margin-top: 2rem;
+  display: flex;
+  gap: 1rem;
+}
+.field_label{
+  font-size: 2rem;
+  line-height: 3rem;
+  font-weight: 700;
+}
+
+button{
+  background-color: #2684FC;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-weight: 500;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+
+input{
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+select{
+  padding: 0.5rem 1rem;
+}
